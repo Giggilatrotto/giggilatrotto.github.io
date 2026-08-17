@@ -3,9 +3,11 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.fintech.budgeting.budgeting_app",
-      "sha256_cert_fingerprints":
-      ["19:56:DC:13:8B:2B:B6:79:AE:B5:57:2E:3D:1D:BB:4F:AB:DB:AE:A2:2F:AE:9F:49:CD:F3:AE:DD:14:20:93:9E"]
+      "package_name": "com.fintech.wealthtracker",
+      "sha256_cert_fingerprints": [
+        "63:18:A1:C1:BC:AC:4B:A1:24:2A:40:79:0D:A5:12:1F:F3:0B:6F:FD:46:78:84:03:60:85:A9:01:25:A5:56:BB",
+        "19:56:DC:13:8B:2B:B6:79:AE:B5:57:2E:3D:1D:BB:4F:AB:DB:AE:A2:2F:AE:9F:49:CD:F3:AE:DD:14:20:93:9E"
+      ]
     }
   }
 ]
